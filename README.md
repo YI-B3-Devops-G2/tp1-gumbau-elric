@@ -44,9 +44,9 @@ port fowarding for ssh virtual box
 
 ## CLI VAGRANT
 
-$ vagrant up      => start the VM 
-$ vagrant halt    => shutdown the VM
-$ vagrant destroy => destroy the VM
+            $ vagrant up ==> start the VM 
+            $ vagrant halt    => shutdown the VM
+            $ vagrant destroy => destroy the VM
 
 ## DOCS
 

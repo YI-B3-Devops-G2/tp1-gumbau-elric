@@ -3,6 +3,7 @@
 ## Info
 
 mail: elric.gumbau@ynov.com
+
 github_username: GUMBAUElric
 
 ## VM Config Vagrant

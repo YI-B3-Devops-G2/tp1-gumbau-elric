@@ -8,18 +8,23 @@ github_username: GUMBAUElric
 ## VM Config Vagrant
 
 RAM: 1GB
+
 OS: ubuntu-18.04-server-amd64
+
 Name : ubuntu-server-vagrant
 
 ## Libraries
 
 nodejs@12
+
 openssh-server
+
 nginx
 
 ## Prerequisites
 
 - install virtualbox <= 6.0
+
 - install vagrant
 
 ## Init VM with Vagrant 

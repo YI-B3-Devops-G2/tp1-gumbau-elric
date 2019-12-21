@@ -32,7 +32,7 @@ nginx
 
 Go to VM/ubuntu-server-vagrant and do the following in terminal to install the VM :
 
-            $ vagrant up
+    vagrant up
            
 Nginx, OpenSSH and Node JS 12 is automatically installed
 
@@ -50,9 +50,9 @@ port fowarding for ssh virtual box
 
 ## CLI VAGRANT
 
-            $ vagrant up      ==> start the VM 
-            $ vagrant halt    ==> shutdown the VM
-            $ vagrant destroy ==> destroy the VM
+    vagrant up      ==> start the VM 
+    vagrant halt    ==> shutdown the VM
+    vagrant destroy ==> destroy the VM
 
 ## DOCS
 

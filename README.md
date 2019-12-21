@@ -46,7 +46,9 @@ Nginx, OpenSSH and Node JS 12 is automatically installed
 
 ## Command SSH
 
-ssh vagrant@127.0.0.1 -p 2221
+Connect to ssh
+
+    vagrant ssh
 
 ## Port forwading
 
